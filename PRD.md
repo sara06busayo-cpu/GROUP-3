@@ -61,11 +61,11 @@ activites; which will constantly be updating. it also enables to alert users whe
 
 # FUNCTIONAL REQUIREMENTS
 
-FR-01-The system should allow patients to create accounts
-FR-02-Patients should be able to book available appointments
-FR-03-The system should assign queue numbers to registered patients.
-FR-04-Patients should be able to view their current queue status as well being given updates if anything changes. 
-FR-05-Patients should be able to change their appointment dates or times.
+- FR-01-The system should allow patients to create accounts
+- FR-02-Patients should be able to book available appointments
+- FR-03-The system should assign queue numbers to registered patients.
+- FR-04-Patients should be able to view their current queue status as well being given updates if anything changes. 
+- FR-05-Patients should be able to change their appointment dates or times.
 
 
 # NON-FUNCTIONAL REQUIRMENTS
