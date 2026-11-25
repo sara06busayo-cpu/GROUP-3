@@ -50,6 +50,11 @@ activites; which will constantly be updating. it also enables to alert users whe
 - The front desk receptionist
 - The medical staffs and personel
 
+# STAKEHOLDERS
+- Paitients wants to be able to book appointments with doctors
+- Paitients should be able to view and join viryual queues
+- Doctors should be able to view daily schedules
+- Receptionist should be able to register new paitients and manage queues.
 
 # USER STORY
 
